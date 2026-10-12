@@ -1,165 +1,224 @@
+
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Minyoung%20Kang&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Cloud%20%7C%20Security&descAlignY=58&descSize=17" width="100%"/>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=190&section=header&text=Minyoung%20Kang&fontSize=44&fontColor=ffffff&fontAlignY=39&desc=Software%20Engineer&descAlignY=61&descSize=18" width="100%" alt="Profile Header"/>
 
-### 👋 Hi, I'm Minyoung
+  <h3>👋 Hi, I'm Minyoung!</h3>
 
-**사용자와 서비스 관점에서 문제를 정의하고, 안정적으로 동작하는 서비스를 만드는 개발자입니다.**
+  <p>
+    <strong>문제를 발견하고, 실제로 동작하는 서비스로 해결하는 개발자입니다.</strong>
+  </p>
 
-Backend를 중심으로  
-**Cloud와 Security를 활용한 서비스**를 개발하고 있습니다.
+  <p>
+    웹 서비스 개발부터 데이터 처리, 클라우드 기반 자동화까지<br/>
+    다양한 프로젝트를 통해 개발 역량을 쌓아가고 있습니다.
+  </p>
 
+  <p>
+    <strong>Backend · Data · Cloud · Security</strong>
+  </p>
 </div>
 
 <br/>
 
-## 🛠 Tech Stack
+<h2>About Me</h2>
 
-### Languages
+<ul>
+  <li><strong>Focus</strong> — Backend Development, Data Engineering</li>
+  <li><strong>Interests</strong> — Cloud, Security, Automation</li>
+  <li><strong>Approach</strong> — Design, Implementation, Testing & Improvement</li>
+</ul>
+
+<br/>
+
+<h2>🛠 Tech Stack</h2>
+
+<h3>Languages</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-### Backend
+<h3>Backend & Frontend</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
 </p>
 
-### Frontend
+<h3>Database</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure SQL"/>
 </p>
 
-### Database
+<h3>Cloud & Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-</p>
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 <br/>
 
-## 🚀 Projects
+<h2>🚀 Featured Projects</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🛡️ [VibeGuard](https://github.com/alsdud-k/vibe-guard)
+<h3>🛡️ <a href="https://github.com/alsdud-k/vibe-guard">VibeGuard</a></h3>
 
-PR 변경 코드를 분석해  
-**새롭게 발생한 보안 Regression을 자동 검토하는 서비스**
+<sub>Personal Project</sub>
 
-`AWS` `Lambda` `Step Functions` `Bedrock`
+<p>
+GitHub PR 변경 코드의 보안 회귀 가능성을 자동으로 검토하는 서비스
+</p>
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsdud-k/vibe-guard)
+<ul>
+  <li>AWS 서버리스 분석 워크플로 설계 및 구현</li>
+  <li>규칙 기반 검사와 Amazon Bedrock AI 분석 결합</li>
+  <li>100개 E2E 테스트, F1 Score 0.896</li>
+</ul>
 
-</td>
+<code>AWS</code> <code>Lambda</code> <code>Step Functions</code> <code>Bedrock</code>
 
-<td width="50%" valign="top">
+  </td>
+  <td width="50%" valign="top">
 
-### 🛒 [Price Alert Service](https://github.com/alsdud-k/price-alert-service)
+<h3>📈 <a href="https://github.com/alsdud-k/price-alert-service">Price Alert Service</a></h3>
 
-상품 가격을 주기적으로 추적해  
-**목표가 도달 시 알림을 제공하는 가격 추적 서비스**
+<sub>Team Project · PM & Full-stack</sub>
 
-`Spring Boot` `Spring Data JPA` `Jsoup` `MySQL`
+<p>
+관심 상품의 가격 변동을 추적하고<br/>
+목표가 도달 시 알림을 제공하는 서비스
+</p>
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsdud-k/price-alert-service)
+<ul>
+  <li>PM으로서 프로젝트 일정 및 개발 업무 조율</li>
+  <li>Spring Boot 기반 백엔드 REST API 개발</li>
+  <li>프론트엔드와 백엔드 API 연동 및 데이터 흐름 구현</li>
+</ul>
 
-</td>
-</tr>
+<code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code>
 
-<tr>
-<td width="50%" valign="top">
+  </td>
+  </tr>
 
-### 🔔 [Recall](https://github.com/2dt-final-team/Recall-Project)
+  <tr>
+    <td width="50%" valign="top">
 
-공공 리콜 데이터와 사용자 등록 제품을 매칭해  
-**리콜 발생 시 개인화 알림을 제공하는 플랫폼**
+<h3>🔔 <a href="https://github.com/2dt-final-team/Recall-Project">Recall Project</a></h3>
 
-`FastAPI` `PostgreSQL` `Databricks` `Azure AI Search`
+<sub>Team Project · Full-stack</sub>
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/2dt-final-team/Recall-Project)
+<p>
+사용자 보유 제품과 공공 리콜 데이터를 연계하여
+개인화된 알림을 제공하는 플랫폼
+</p>
 
-</td>
+<ul>
+  <li>React Native 기반 제품 등록 및 관리 화면 개발</li>
+  <li>FastAPI 및 PostgreSQL 기반 CRUD API 개발 참여</li>
+  <li>인증 토큰 갱신 및 디바이스 등록 기능 개발 참여</li>
+</ul>
 
-<td width="50%" valign="top">
+<code>React Native</code> <code>FastAPI</code> <code>PostgreSQL</code>
 
-### 🚑 [Golden Hour](https://github.com/Siren-Emergency-Support-System/az-cloud-databricks-golden-hour)
+  </td>
+  <td width="50%" valign="top">
 
-응급환자 정보와 의료기관 수용 여부를  
-**실시간으로 연결하는 이송 지원 플랫폼**
+<h3>📊 <a href="https://github.com/alsdud-k/BizScope">BizScope</a></h3>
 
-`React` `FastAPI` `WebSocket` `Azure Service Bus`
+<sub>Team Project · PM & Full-stack</sub>
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siren-Emergency-Support-System/az-cloud-databricks-golden-hour)
+<p>
+날씨·생활인구·소비 데이터를 활용한
+상권 분석 및 AI 질의응답 플랫폼
+</p>
 
-</td>
-</tr>
+<ul>
+  <li>팀장으로서 일정 및 개발 업무 조율</li>
+  <li>웹 서비스 및 Power BI 대시보드 구현</li>
+  <li>Azure OpenAI 기반 질의응답 기능 연동</li>
+</ul>
 
-<tr>
-<td width="50%" valign="top">
+<code>React</code> <code>Flask</code> <code>Azure SQL</code> <code>Power BI</code>
 
-### 📊 [BizScope](https://github.com/alsdud-k/BizScope)
+  </td>
+  </tr>
+</table>
 
-날씨·생활인구·소비 데이터를 통합해  
-**지역 기반 상권 분석과 AI 질의를 제공하는 플랫폼**
+<br/>
 
-`React` `Flask` `Azure OpenAI` `Power BI`
+<h2>Other Projects</h2>
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsdud-k/BizScope)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎣 [Phishing Risk Platform](https://github.com/alsdud-k/phishing-risk-platform)
-
-메시지와 URL을 분석해  
-**피싱 위험도를 제공하는 보안 분석 플랫폼**
-
-`React` `FastAPI` `PostgreSQL` `Python`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsdud-k/phishing-risk-platform)
-
-</td>
-</tr>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/Siren-Emergency-Support-System/az-cloud-databricks-golden-hour">
+          <strong>Golden Hour</strong>
+        </a>
+      </td>
+      <td>실시간 응급 환자 정보 공유 및 이송 지원 서비스. React 화면과 WebSocket 데이터 연동 개발</td>
+      <td>React, FastAPI, WebSocket</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/alsdud-k/phishing-risk-platform">
+          <strong>Phishing Risk Platform</strong>
+        </a>
+      </td>
+      <td>피싱 시뮬레이션 기반 사용자 행동 분석 및 위험도 평가 플랫폼</td>
+      <td>Python, FastAPI, PostgreSQL</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Unibus-sch/unibus-sch">
+          <strong>Unibus</strong>
+        </a>
+      </td>
+      <td>실시간 셔틀버스 위치 추적 플랫폼의 버스 위치 업데이트 API 접근제어 개선</td>
+      <td>REST API, Authorization</td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
 
 <div align="center">
 
-### Thanks for visiting 👋
+---
 
-**Building reliable services from real-world problems.**
+<p>
+  <strong>Building reliable services from real-world problems.</strong>
+</p>
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-alsdud--k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsdud-k)
+<a href="https://github.com/alsdud-k">
+  <img src="https://img.shields.io/badge/GitHub-alsdud--k-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=100&section=footer" width="100%" alt="Footer"/>
